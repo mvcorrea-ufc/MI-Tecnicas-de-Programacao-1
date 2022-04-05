@@ -3,7 +3,6 @@ git init
 git remote add origin https://github.com/mvcorrea-ufc/MI-Tecnicas-de-Programacao-1.git
 
 ! adding code
-git add *
-
-
+git add .
+git commit -m "first commit"
 git push -u origin master

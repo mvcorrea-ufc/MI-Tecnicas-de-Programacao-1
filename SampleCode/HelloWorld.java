@@ -5,7 +5,7 @@ class HelloWorld {
 }
 
 // hand compiling
-// buliding the class HelloWorld
-// javac HelloWorld.java
+// building the class HelloWorld
+//> javac HelloWorld.java
 // running the class HelloWorld
-// java HelloWorld  
+//> java HelloWorld  
